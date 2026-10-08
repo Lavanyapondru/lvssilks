@@ -1,0 +1,2 @@
+import SectionTitle from "../components/SectionTitle"; import ProductCard from "../components/ProductCard"; import {products} from "../data/products";
+export default function Shop(){return <section className="page-section"><div className="container"><SectionTitle eyebrow="THE COLLECTION" title="Shop all women’s needs" text="Dummy products for now — replace names, prices and images with your original catalogue."/><div className="row g-4">{products.map(p=><div className="col-6 col-md-4 col-lg-3" key={p.id}><ProductCard product={p}/></div>)}</div></div></section>}
