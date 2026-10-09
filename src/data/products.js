@@ -729,22 +729,6 @@ export const products = [
 {id:281,category:"innerwear",subcategory:"camisoles",name:"Built-In Bra Camisole",price:"₹649",badge:"Support",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVkLvOwATAq3Vta0lu2cM7paDf3iKDi8IM6WhVCwzqEw&s"},
 
 {id:282,category:"innerwear",subcategory:"camisoles",name:"Premium Lace Camisole",price:"₹799",badge:"Luxury",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0N_Bb0BrPH803Uto-lJCFMXJqYYVbzqCNPE9pCH034Q&s=10"},
-{id:283,category:"innerwear",subcategory:"swimwear",name:"Classic Black One-Piece Swimsuit",price:"₹899",badge:"Best Seller",image:"IMAGE_URL_283"},
-{id:284,category:"innerwear",subcategory:"swimwear",name:"Floral Print One-Piece Swimsuit",price:"₹999",badge:"Floral",image:"IMAGE_URL_284"},
-{id:285,category:"innerwear",subcategory:"swimwear",name:"High-Waisted Bikini Set",price:"₹799",badge:"Trending",image:"IMAGE_URL_285"},
-{id:286,category:"innerwear",subcategory:"swimwear",name:"Blue Striped Bikini Set",price:"₹849",badge:"Summer Pick",image:"IMAGE_URL_286"},
-{id:287,category:"innerwear",subcategory:"swimwear",name:"Ribbed Textured Swimsuit",price:"₹1099",badge:"Premium",image:"IMAGE_URL_287"},
-{id:288,category:"innerwear",subcategory:"swimwear",name:"Halter Neck Swimsuit",price:"₹949",badge:"Stylish",image:"IMAGE_URL_288"},
-{id:289,category:"innerwear",subcategory:"swimwear",name:"Tropical Print Bikini Set",price:"₹899",badge:"New",image:"IMAGE_URL_289"},
-{id:290,category:"innerwear",subcategory:"swimwear",name:"Sporty Racerback Swimsuit",price:"₹999",badge:"Active",image:"IMAGE_URL_290"},
-{id:291,category:"innerwear",subcategory:"swimwear",name:"High Neck Swimwear Set",price:"₹1049",badge:"Comfort Fit",image:"IMAGE_URL_291"},
-{id:292,category:"innerwear",subcategory:"swimwear",name:"Polka Dot Bikini Set",price:"₹799",badge:"Cute",image:"IMAGE_URL_292"},
-{id:293,category:"innerwear",subcategory:"swimwear",name:"Elegant Maroon One-Piece",price:"₹1099",badge:"Elegant",image:"IMAGE_URL_293"},
-{id:294,category:"innerwear",subcategory:"swimwear",name:"Cut-Out Style Swimsuit",price:"₹1199",badge:"Trending",image:"IMAGE_URL_294"},
-{id:295,category:"innerwear",subcategory:"swimwear",name:"Pastel Green Bikini Set",price:"₹899",badge:"Pastel",image:"IMAGE_URL_295"},
-{id:296,category:"innerwear",subcategory:"swimwear",name:"Wrap Style One-Piece Swimsuit",price:"₹1149",badge:"Premium",image:"IMAGE_URL_296"},
-{id:297,category:"innerwear",subcategory:"swimwear",name:"Printed Tankini Swimwear Set",price:"₹1099",badge:"Comfort",image:"IMAGE_URL_297"},
-{id:298,category:"innerwear",subcategory:"swimwear",name:"Classic Navy Blue Bikini Set",price:"₹849",badge:"Classic",image:"IMAGE_URL_298"},
 
 {
     id: 299,
