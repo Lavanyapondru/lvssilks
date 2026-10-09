@@ -10,17 +10,17 @@ export default function WomenProducts() {
     { key: "all", label: "All", icon: "bi-grid" },
     { key: "Footwear", label: "Footwear", icon: "bi-shoe-prints" },
     { key: "Beauty", label: "Beauty ", icon: "bi-stars" },
-    { key: "Jewellery", label: "Jewellery ", icon: "bi-gem" },
+    // { key: "Jewellery", label: "Jewellery ", icon: "bi-gem" },
     { key: "Accessories", label: "Handbags", icon: "bi-handbag" },
-    { key: "Makeup", label: "Makeup", icon: "bi-brush" },
-    { key: "Healthcare", label: "Healthcare", icon: "bi-doctor" },
+    // { key: "Makeup", label: "Makeup", icon: "bi-brush" },
+    // { key: "Healthcare", label: "Healthcare", icon: "bi-doctor" },
     { key: "Watches", label: "Watches", icon: "bi-watch" },
 
-    {
-      key: "Baby&Mom care",
-      label: "Baby & Mom Care",
-      icon: "bi-heart",
-    },
+    // {
+    //   key: "Baby&Mom care",
+    //   label: "Baby & Mom Care",
+    //   icon: "bi-heart",
+    // },
   ];
 
   const list = products.filter((p) => {

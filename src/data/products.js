@@ -36,7 +36,7 @@ export const products = [
 {id:15,category:"clothing",subcategory: "western",name:"Casual Western Wear",price:"₹999",badge:"Comfort",image:"https://cdn.shopify.com/s/files/1/0383/1771/9684/files/Chiba_Three_Piece_Co-ord_Set_1.webp?v=1772006712"},
 {id:13,category:"clothing",subcategory: "ethnic",name:"Flare Maxi Ethnic Dress With Dupatta",price:"₹2,499",badge:"Bestseller",image:"https://assets.myntassets.com/w_412,q_50,,dpr_3,fl_progressive,f_webp/assets/images/26164080/2023/12/1/1fda0e18-b821-477c-b6cb-82a612d0e34c1701424103141EthnicDresses1.jpg"},
  {id:1,category:"clothing",subcategory: "ethnic",name:"Festive Anarkali Set",price:"₹2,499",badge:"Bestseller",image:"https://medias.utsavfashion.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/b/a/bandhej-printed-art-silk-anarkali-suit-in-purple-v1-krd2229.jpg"},
- {id:6,category:"clothing",subcategory: "western",name:"Everyday Camisole",price:"₹349",badge:"Daily Wear",image:"https://assets.ajio.com/medias/sys_master/root1/20260414/e81R/69ddd59114d0c217196ec2af/-473Wx593H-702167129-white-MODEL2.jpg"},
+ {id:6,category:"clothing",subcategory: "western",name:"Elegant Party Wear",price:"₹1,149",badge:"Daily Wear",image:"https://wyshlist.io/cdn/shop/files/l-k-dress-black-04-traquila-original-imah3z5ehtwzysxh.jpg?v=1733396767&width=1100"},
  {id:7,category:"skincare",subcategory: "personal",name:"Rose Glow Face Cream",price:"₹599",badge:"Glow",image:"https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=900&q=80"},
  {id:8,category:"skincare",subcategory: "lounge",name:"Herbal Body Care Set",price:"₹799",badge:"Natural",image:"https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=900&q=80"},
  {id:9,category:"skincare",subcategory: "personal",name:"Gentle Face Cleanser",price:"₹449",badge:"Daily Care",image:"https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=900&q=80"},
@@ -71,15 +71,7 @@ export const products = [
   badge: "Popular",
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjJbbPWT1_1cL-sCWlqkwpvFxhjehiX_DVww9J0Nr5g&s=10"
 },
-{
-  id: 36,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Ruban set bangles",
-  price: "₹699",
-  badge: "Bestseller",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREprUE5au2alBsE0rirzEQ52cnGCYyUUnsb0_bUXPWKg&s=10"
-},
+
 {
   id: 38,
   category: "womenProducts",
@@ -115,15 +107,7 @@ export const products = [
   badge: "Popular",
   image: "https://nakerybeauty.com/cdn/shop/files/EndlessBronze_-_Rapid_Tan_-_250ml_white_shadow.webp?v=1786627490&width=750"
 },
-{
-  id: 25,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Pearl Necklace Set",
-  price: "₹699",
-  badge: "Bestseller",
-  image: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTu5r8y5bKZ6-KO1ErMuu3pXU7u4L8H251C_OsdjeRd2tSYNkC4d9vyLBW8RG9pz0PBs1ydIH5s8xGTmDLVPIctFNQplS3Wlxifk7jY_HRPIZb4bEjTTnVE&usqp=CAc"
-},
+
 {
   id: 31,
   category: "womenProducts",
@@ -133,24 +117,6 @@ export const products = [
   badge: "New",
   image: "https://annachy-prod-assets.annachy.com/pims/products-v1/0286885PURWHI2_2-image1_v1776252505081.webp",
 },
-{
-  id: 35,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Sterling Silver Pendant Necklace",
-  price: "₹699",
-  badge: "Bestseller",
-  image: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQRWE96R26qTy3BLupam1dkcXoFHurE-s5tc1b0eBdlZwwFfZwIkcruyrHpIUGw4qrbIHC8uEBAzSTvz1LJxUHDtwGCCNztQNh8SrxdBGfci0flRcIEQS2F&usqp=CAc"
-},{
-  id: 37,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Elegant ring",
-  price: "₹699",
-  badge: "Bestseller",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CDi9uYX8TWE7MLY2n3lMYkl0MQoiHzCpinQyoM0raHD8TmtbQTHd8GKp&s=10"
-},
-
 {
   id: 26,
   category: "womenProducts",
@@ -199,7 +165,7 @@ export const products = [
 {
   id: 27,
   category: "womenProducts",
-  subcategory: "Makeup",
+  subcategory: "Beauty",
   name: "Everyday Makeup Kit",
   price: "₹999",
   badge: "Popular",
@@ -208,7 +174,7 @@ export const products = [
 {
   id: 41,
   category: "womenProducts",
-  subcategory: "Makeup",
+  subcategory: "Beauty",
   name: "Lipstick, Lipgloss & Lip liner",
   price: "₹999",
   badge: "Popular",
@@ -216,7 +182,7 @@ export const products = [
 },{
   id: 42,
   category: "womenProducts",
-  subcategory: "Makeup",
+  subcategory: "Beauty",
   name: "Makeup Kit Gift Box",
   price: "₹999",
   badge: "Popular",
@@ -224,51 +190,17 @@ export const products = [
 },{
   id: 43,
   category: "womenProducts",
-  subcategory: "Makeup",
+  subcategory: "Beauty",
   name: "Makeup Essentials Kit",
   price: "₹999",
   badge: "Popular",
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoxA1-liibLx3SX-4KvNGdlLKHVZDzrnuXB6EpDOnpBA&s=10"
 },
 
-{
-  id: 28,
-  category: "womenProducts",
-  subcategory: "Baby&Mom care",
-  name: "Mom & Baby Care Kit",
-  price: "₹899",
-  badge: "Essentials",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEX4RwOPvtBh9prF3uu8AEKS_VW-tajBWeUy-xLt4_gQ&s=10"
-},
-{
-  id: 44,
-  category: "womenProducts",
-  subcategory: "Baby&Mom care",
-  name: "New Born Bbay Kit",
-  price: "₹899",
-  badge: "Essentials",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBcY-fy4AMqbX8Y5R1BWkxeyAsJ11Ipw8roRKm4JWGQ&s=10"
-},{
-  id: 45,
-  category: "womenProducts",
-  subcategory: "Baby&Mom care",
-  name: "Premium Maternity Kit",
-  price: "₹1,299",
-  badge: "Essentials",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBGBlS-QLK2MQa5QohZd_us1KyV_dl7m62IGeQJg1uw&s=10"
-},{
-  id: 46,
-  category: "womenProducts",
-  subcategory: "Baby&Mom care",
-  name: "Baby Care Products",
-  price: "₹899",
-  badge: "Essentials",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu3P0KjEkJGLEFmJ1EyafyxfOJyhgnSKh_W93WwkhVA&s=10"
-},
 
 {id:48,category:"innerwear",subcategory:"bra",name:"Comfortable Everyday Bra",price:"₹699",badge:"Comfort",image:"https://m.media-amazon.com/images/I/31bweCm6QNL._AC_UY1100_.jpg"},
 {id:49,category:"innerwear",subcategory:"panties",name:"Soft Cotton Panty",price:"₹299",badge:"Soft Fabric",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXcyeiFH-6VNVkqzjDz4uUjEFFild__KQjCtwPFqQt995HYgVArrfaAaTV&s=10"},
-{id:50,category:"innerwear",subcategory:"bra",name:"Spaghetti Strap Camisole",price:"₹399",badge:"Breathable",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStcfk-6nXi6Z4sC5Fh7Q4_bajFgaA6J55QlDan35ndfQ&s=10"},
+// {id:50,category:"innerwear",subcategory:"bra",name:"Spaghetti Strap Camisole",price:"₹399",badge:"Breathable",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStcfk-6nXi6Z4sC5Fh7Q4_bajFgaA6J55QlDan35ndfQ&s=10"},
 {id:51,category:"innerwear",subcategory:"bra",name:"Comfort Fit Slip",price:"₹449",badge:"Lightweight",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1hYiydTmKHAtLmG-vXvMfCWlk1AaNdfLl8rlMQwHxw&s"},
 {
   id: 53,
@@ -377,65 +309,9 @@ export const products = [
 {id:69,category:"clothing",subcategory:"kids",name:"Rainbow Printed Western Dress",price:"₹699",badge:"Trending",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaDF4vfrxQH-NRFYWt_3vA7ydJIQh6e4k2TMsf0tPiw&s"},
 
 {id:70,category:"clothing",subcategory:"kids",name:"Elegant Girls Maxi Dress",price:"₹1199",badge:"Premium",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzNcxP1Ah3mLdgsehDZKSSvfP13gPKclU9NPOvCILJA&s=10"},
-{
-  id: 71,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Elegant Gold Plated Hoop Earrings",
-  price: "₹499",
-  badge: "Trending",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SsbKmu1l4uwYTJvN3fWHqZGixT2DXj_W8gjgOh9jFA&s=10"
-},
 
-{
-  id: 72,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Traditional Kundan Necklace Set",
-  price: "₹1,299",
-  badge: "Bestseller",
-  image: "https://silvermerc.com/cdn/shop/files/compressed_DSC_3325_2.jpg?v=1790932170&width=1946"
-},
 
-{
-  id: 73,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Rose Gold Bracelet for Women",
-  price: "₹599",
-  badge: "New",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLMqSmxgNfJLMKpIAGLppngd0Kw_G4AWpZAsF-c-adQ&s=10"
-},
 
-{
-  id: 74,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Pearl Drop Earrings",
-  price: "₹699",
-  badge: "Popular",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxz67kpaZxsAxZNNAsTOfQtA0EO6A9p4uPGXC9tLYbQ&s=10"
-},
-
-{
-  id: 75,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Oxidised Silver Jhumka Earrings",
-  price: "₹399",
-  badge: "Trending",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXZ8YzpL6IDxrl-sOjec83kkF6To8sGV0kd1vuCWweXg&s=10"
-},
-
-{
-  id: 76,
-  category: "womenProducts",
-  subcategory: "Jewellery",
-  name: "Artificial Diamond Pendant Set",
-  price: "₹899",
-  badge: "Bestseller",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCsSm6G6w5I8rxfWanvRIb3a5ao3kbFUKofXcZQ1YUA&s=10"
-},
 
 {
   id: 77,
@@ -496,85 +372,11 @@ export const products = [
   badge: "Comfort",
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVtJasAJGyzGQIPKUVBYEzkm8WDjLfUkg4j5AfC6knQ&s=10"
 },
-{
-  id: 83,
-  category: "womenProducts",
-  subcategory: "Healthcare",
-  name: "Ultra Thin Sanitary Pads with Wings",
-  price: "₹299",
-  badge: "Bestseller",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEIrxnfmki4HZCsWGqjwvLymhSk0FK5bVuF_bRUCtQQ&s=10"
-},
 
-{
-  id: 84,
-  category: "womenProducts",
-  subcategory: "Healthcare",
-  name: "Cottony Soft Sanitary Pads",
-  price: "₹249",
-  badge: "Comfort",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzhPMPCTqZfRcbueYh7o1aACxCx_R88KZPjt9jJKakg&s=10"
-},
 
-{
-  id: 85,
-  category: "womenProducts",
-  subcategory: "Healthcare",
-  name: "Overnight Sanitary Pads with Wings",
-  price: "₹349",
-  badge: "Protection",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRnkgZ1X1iiMrEmMHtbMSpmH4eB6KMsYtcGVZuiV-IeQ&s"
-},
 
-{
-  id: 86,
-  category: "womenProducts",
-  subcategory: "Healthcare",
-  name: "Panty Liners Daily Fresh",
-  price: "₹199",
-  badge: "Daily Care",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xFt4xIHfeHG1FKROxUNCEFneNXtt2xeL1AsaAt5Xow&s=10"
-},
 
-{
-  id: 87,
-  category: "womenProducts",
-  subcategory: "Healthcare",
-  name: "Reusable Menstrual Cup",
-  price: "₹399",
-  badge: "Eco Friendly",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENHaR0nZuaZHQRLy4uQVpHfMdSSq9lJRRiLaVTkbUyg&s"
-},
 
-{
-  id: 88,
-  category: "womenProducts",
-  subcategory: "Healthcare",
-  name: "Period Comfort Heating Patch",
-  price: "₹299",
-  badge: "Comfort",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEGGN_ToUHBpyjs3snHgStI540ubZrZ_790C3omFjEw&s=10"
-},
-
-{
-  id: 89,
-  category: "womenProducts",
-  subcategory: "Healthcare",
-  name: "Intimate Hygiene Wash",
-  price: "₹249",
-  badge: "Daily Care",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2q2rhuktCST2APfV7FI4aDYHYWL9kM5JT-ZPh83kOvA&s=10"
-},
-
-{
-  id: 90,
-  category: "womenProducts",
-  subcategory: "Healthcare",
-  name: "Organic Cotton Sanitary Pads",
-  price: "₹399",
-  badge: "Natural",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeodHukRAGBO0R4X-CvvC_5zUtXiqFGgSXIo9vxQ8Z0w&s"
-},
 {id:91,category:"clothing",subcategory:"ethnic",name:"Floral Anarkali Kurta With Dupatta",price:"₹2,699",badge:"Bestseller",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-42xoqJHvqJYEzqVEBMbV4asaZzixu-WZ9Mkk2dIJg&s=10"},
 
 {id:92,category:"clothing",subcategory:"ethnic",name:"Embroidered Straight Kurta Set",price:"₹2,499",badge:"Popular",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SitiKBKmhjfi8rVIQfZA0L_4ENRz9DkjZ1VdxE8oAw&s=10"},
@@ -696,17 +498,17 @@ export const products = [
 
 {id:162,category:"innerwear",subcategory:"bra",name:"Camisole Bra",price:"₹599",badge:"Everyday",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoGs1L9oxumxXCBj_IYhd1Ni9Hm0TUt2rlO9I4moqGg&s=10"},
 
-{id:163,category:"innerwear",subcategory:"bra",name:"Seamless Camisole",price:"₹449",badge:"Seamless",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsjRu5mvPqcimJCZwfTiDADg14ph60GXtJheCteuZWw&s=10"},
+{id:163,category:"innerwear",subcategory:"camisoles",name:"Seamless Camisole",price:"₹449",badge:"Seamless",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsjRu5mvPqcimJCZwfTiDADg14ph60GXtJheCteuZWw&s=10"},
 
-{id:164,category:"innerwear",subcategory:"bra",name:"Adjustable Strap Camisole",price:"₹399",badge:"Daily Wear",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgwSbJ8TuEClZrohD2W6nuy36vm7W9MXgkVV9SaKNdA&s=10"},
+{id:164,category:"innerwear",subcategory:"camisoles",name:"Adjustable Strap Camisole",price:"₹399",badge:"Daily Wear",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgwSbJ8TuEClZrohD2W6nuy36vm7W9MXgkVV9SaKNdA&s=10"},
 
-{id:165,category:"innerwear",subcategory:"bra",name:"Padded Camisole",price:"₹599",badge:"Modern",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37l-EUB1pZxhk6l5tC2RxOlRTYWsuvpqQN4jqJEUL7w&s=10"},
+{id:165,category:"innerwear",subcategory:"camisoles",name:"Padded Camisole",price:"₹599",badge:"Modern",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37l-EUB1pZxhk6l5tC2RxOlRTYWsuvpqQN4jqJEUL7w&s=10"},
 
-{id:166,category:"innerwear",subcategory:"bra",name:"Cotton Inner Slip",price:"₹499",badge:"Comfort",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjUYJfOfXTfO3zb8yDFplyiwS_3-ATuSF-puzmV6ljA&s=10"},
+{id:166,category:"innerwear",subcategory:"camisoles",name:"Cotton Inner Slip",price:"₹499",badge:"Comfort",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjUYJfOfXTfO3zb8yDFplyiwS_3-ATuSF-puzmV6ljA&s=10"},
 
-{id:167,category:"innerwear",subcategory:"bra",name:"Full Length Inner Slip",price:"₹549",badge:"Everyday",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUniS6tnC1AX3du3JLd1cHacFWHMH5PagoHCws7jfSSA&s=10"},
+{id:167,category:"innerwear",subcategory:"camisoles",name:"Full Length Inner Slip",price:"₹549",badge:"Everyday",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUniS6tnC1AX3du3JLd1cHacFWHMH5PagoHCws7jfSSA&s=10"},
 
-{id:168,category:"innerwear",subcategory:"bra",name:"Spaghetti Strap Slip",price:"₹399",badge:"Lightweight",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFKE7HZlTkY7QYphuNLRdOiFlmHWAgcIPCk_QvQMvtg&s=10"},
+{id:168,category:"innerwear",subcategory:"camisoles",name:"Spaghetti Strap Slip",price:"₹399",badge:"Lightweight",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFKE7HZlTkY7QYphuNLRdOiFlmHWAgcIPCk_QvQMvtg&s=10"},
 
 {id:169,category:"clothing",subcategory:"personal",name:"Cotton Shorts & Camisole Set",price:"₹549",badge:"Comfort",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShRJc2vkU5q3gY809j5cvlVQomkTB_jI49278jdL4Kw&s=10"},
 
@@ -912,7 +714,7 @@ export const products = [
 
 {id:274,category:"innerwear",subcategory:"camisoles",name:"Lace Trim Camisole",price:"₹549",badge:"Elegant",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFaWQSgCT1JfiR2JAjSNNK0yHwv1YUfMvZXVK4lGHWTw&s=10"},
 
-{id:275,category:"innerwear",subcategory:"camisoles",name:"Stretchable Everyday Camisole",price:"₹399",badge:"Stretchable",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1uSpH_Dlku2bcE1LpEFJ-YdH8R8UsQgCQDELNQPPIEw&s=10"},
+{id:275,category:"innerwear",subcategory:"camisoles",name:"Stretchable Everyday Camisole",price:"₹399",badge:"Stretchable",image:"https://wyshlist.io/cdn/shop/files/l-k-dress-black-04-traquila-original-imah3z5ehtwzysxh.jpg?v=1733396767&width=1100"},
 
 {id:276,category:"innerwear",subcategory:"camisoles",name:"V-Neck Cotton Camisole",price:"₹449",badge:"Comfort",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjnkY6J1LXeNG5BM0UK-8VMItRlv4uLiMCBEjk6Kj_Ag&s"},
 
@@ -988,8 +790,564 @@ export const products = [
     price: "₹999",
     badge: "New",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpDrArsuFFT5VxI59IQGYT-voVe6ZR5jMC_n17Mz9Vg&s=10"
-  }
+  },
+  {
+    id: 304,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Traditional Kanchipuram Pattu Saree",
+    price: "₹3,999",
+    mrp: "₹7,999",
+    offer: "50% OFF",
+    badge: "Bestseller",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2qJwHLMyCnzSW9X2X_ygyVBGXPYWhxa4_uZ7EISrpc7UgFqvQbXgP75G&s=10"
+  },
+  {
+    id: 305,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Royal Red Bridal Pattu Saree",
+    price: "₹5,499",
+    mrp: "₹10,999",
+    offer: "50% OFF",
+    badge: "Wedding Special",
+    image: "https://medias.utsavfashion.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/h/a/handloom-pure-silk-gadwal-saree-in-red-v1-stga444.jpg"
+  },
+  {
+    id: 306,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Elegant blue Zari Border Pattu Saree",
+    price: "₹4,299",
+    mrp: "₹8,599",
+    offer: "50% OFF",
+    badge: "Trending",
+    image: "https://southloom.com/cdn/shop/files/Gemini_Generated_Image_rkp0carkp0carkp0.png?v=1777459756"
+  },
+  {
+    id: 307,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Grand kerala Pattu Saree",
+    price: "₹6,499",
+    mrp: "₹12,999",
+    offer: "50% OFF",
+    badge: "Premium",
+    image: "https://kuthampullysarees.com/cdn/shop/files/rn-image_picker_lib_temp_4ce8ceca-46d3-4bf3-b9a6-327e0ae6de8f.jpg?v=1781968342&width=960"
+  },
+   {
+    id: 308,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Classic Purple Kanchipuram Pattu Saree",
+    price: "₹4,499",
+    mrp: "₹8,999",
+    offer: "50% OFF",
+    badge: "Bestseller",
+    image: "https://assets-jiocdn.ajio.com/medias/sys_master/root1/20250907/And7/68bd3e018bfb9009ace55924/-473Wx593H-702205407-purple-MODEL.jpg"
+  },
+  {
+    id: 309,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Maroon Bridal  Pattu Saree",
+    price: "₹6,499",
+    mrp: "₹10,999",
+    offer: "41% OFF",
+    badge: "Wedding Special",
+    image: "https://eflina.in/wp-content/uploads/2026/06/Meenakari-1g-double-warp-kanchi-pattu-sareeWhatsApp-Image-2026-06-06-at-6.21.24-PM.jpeg"
+  },
+  {
+    id: 310,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Maroon gold Border Pattu Saree",
+    price: "₹5,299",
+    mrp: "₹9,999",
+    offer: "47% OFF",
+    badge: "Trending",
+    image: "https://odhni.com/cdn/shop/files/WhatsAppImage2026-10-08at12.43.22PM.jpg?v=1791455462&width=1200"
+  },
+  {
+    id: 311,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Mustard Yellow Traditional Pattu Saree",
+    price: "₹3,899",
+    mrp: "₹7,499",
+    offer: "48% OFF",
+    badge: "Festive Special",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuuhe7qK6fDR9fw-XTdfJG-fvq-SUVXvqCDtAYZZbcQ&s=10"
+  },
+  {
+    id: 312,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Emerald Blue Bridal Pattu Saree",
+    price: "₹7,299",
+    mrp: "₹12,999",
+    offer: "44% OFF",
+    badge: "Premium",
+    image: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240216/abO5/65cf635d05ac7d77bb5ee7dc/-473Wx593H-467080424-blue-MODEL.jpg"
+  },
+  {
+    id: 313,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Rose Pink border Soft  Pattu Saree",
+    price: "₹3,499",
+    mrp: "₹6,499",
+    offer: "46% OFF",
+    badge: "New Arrival",
+    image: "https://mykaladhar.com/cdn/shop/files/DSC04781.jpg?v=1752931806"
+  },
+  {
+    id: 314,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Cream and Gold Grand Pattu Saree",
+    price: "₹5,999",
+    mrp: "₹10,999",
+    offer: "45% OFF",
+    badge: "Exclusive",
+    image: "https://www.shaadidukaan.com/vogue/wp-content/uploads/2019/08/Heavy-Pattu-Saree-Bridal-Look.webp"
+  },
+  {
+    id: 315,
+    category: "clothing",
+    subcategory: "sarees",
+    name: "Orange Temple Border Pattu Saree",
+    price: "₹4,799",
+    mrp: "₹8,499",
+    offer: "44% OFF",
+    badge: "Traditional Pick",
+    image: "https://odhni.com/cdn/shop/files/001178324.png?v=1791466365&width=1200"
+  },
+  {
+    id: 316,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Elegant Block Heels",
+    price: "₹999",
+    badge: "Bestseller",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQlDfRNPSuEp8x0Kzzw8sR1d7_BnOSDAcFQLqPlrayQ&s=10"
+  },
+  {
+    id: 317,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Stylish Flat Sandals",
+    price: "₹599",
+    badge: "Popular",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8twPcOInAMuNUmrUz2uJtXT9o9RBKR-3sL3kzeNgFw&s=10"
+  },
+  {
+    id: 318,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's White Casual Sneakers",
+    price: "₹1,299",
+    badge: "Trending",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRGj_1dR5lUpg__bbbcBybJge7y_XziVOklsp-gmc-w&s=10"
+  },
+  {
+    id: 319,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Traditional Ethnic Juttis",
+    price: "₹799",
+    badge: "Ethnic Wear",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBsmfmwjiNY2JQacqa-Zpf0TDQkd1r8G7Z98IeTh3RUw&s"
+  },
+  {
+    id: 320,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Party Wear Stiletto Heels",
+    price: "₹1,499",
+    badge: "Party Wear",
+    image: "https://rukminim3.flixcart.com/image/480/640/xif0q/sandal/1/v/4/4-72-heel-37-shoeflair-silver-original-imahjubg6ryhveyh.jpeg?q=90"
+  },
+  {
+    id: 321,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Comfortable Wedge Sandals",
+    price: "₹899",
+    badge: "Comfort Pick",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaITXw9V9dJmZ1_7WjNF09BQgMH8lItFaEYNrxm1xrlA&s=10"
+  },
+  {
+    id: 322,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Lightweight Shoes",
+    price: "₹1,399",
+    badge: "Sports Wear",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx57Ls9L4djF1jSDfXOv54WYTATIxuqlM8VlmybyJxMA&s=10"
+  },
+  {
+    id: 323,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Fashion Ankle SANDALS",
+    price: "₹1,799",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8vDikkhZjomW9ApNvxV9b8yVpZeFCXvLzEmjFgXAddQ&s=10"
+  },
+  {
+    id: 324,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Casual Slip-On Loafers",
+    price: "₹899",
+    badge: "Everyday Wear",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EhiJ_PsJGxOlHhWKKowHCru0skfM7Fsx-affABvUig&s=10"
+  },
+  {
+    id: 325,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Flats",
+    price: "₹749",
+    badge: "Elegant",
+    image: "https://media-ea.landmarkshops.in/cdn-cgi/image/h=730,w=540,q=85,fit=cover/max-new/1000016553518-Grey-STONE-1000016553518_01-2100.jpg"
+  },
+  {
+    id: 326,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Cushioned Platform Slippers",
+    price: "₹499",
+    badge: "Budget Pick",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimeTLKmIVw0IOWGTiWeNxFH5hsIIesQsXGZxq4OqW_A&s"
+  },
+  {
+    id: 327,
+    category: "womenProducts",
+    subcategory: "Footwear",
+    name: "Women's Elegant Pointed-Toe Mules",
+    price: "₹1,099",
+    badge: "Chic Style",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFySn4g8nn6UqlygdrIPGBu97AuWs-3Fy25NAOrmmWkQ&s=10"
+  },
+   {
+    id: 328,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Vitamin C Brightening Face Serum",
+    price: "₹499",
+    badge: "Bestseller",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEp1Wi7xlmV4F9ux0Z49Y4hTvsvLBBJN9cZ_bbmfycQ&s=10"
+  },
+  {
+    id: 329,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Hydrating Aloe Vera Face Gel",
+    price: "₹249",
+    badge: "Popular",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4heOFc10ODOAhQGhWqxm75qQ1gMyd2B1elyPml8q-Fg&s=10 url"
+  },
+  {
+    id: 330,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Daily Moisturizing Face Lotion",
+    price: "₹399",
+    badge: "Everyday Essential",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99Is_GpOr1qyGBwE7AZvhZS0OAcpXWoW2CeB4rHJ8mg&s=10 url"
+  },
+  {
+    id: 331,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Gentle Foaming Face Wash",
+    price: "₹299",
+    badge: "Trending",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGskWJJFpQd7aZxVRmTR3jhhGALT0iTsHrNJR37rwGw&s url"
+  },
+  {
+    id: 332,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Nourishing Cocoa Butter Body Lotion",
+    price: "₹349",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmRUBBo_w0Ra15suI7QX-bnFRzDpMgiZqDMriNsoytQ&s=10 url"
+  },
+  {
+    id: 333,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "SPF 50 Daily Sunscreen",
+    price: "₹449",
+    badge: "Must Have",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWI5J_qfX4xRSbmQpwc7Psto11C5I95cZq4a5qfsZDw&s=10 url"
+  },
+  {
+    id: 334,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Rose Water Facial Toner",
+    price: "₹279",
+    badge: "Natural Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5wON2WWs_M3YIW0xstut8_AWWk0fbvjLICTSTIvpw9w&s=10 url"
+  },
+  {
+    id: 335,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Overnight Hydrating Face Mask",
+    price: "₹399",
+    badge: "Editor's Pick",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_RK5qOcmcCBUv8JYApIdT_KFMfvfrk1MBX6KhIm3tg&s=10 url"
+  },
+  {
+    id: 336,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Nourishing Lip Balm",
+    price: "₹149",
+    badge: "Budget Pick",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZp4zuA5yeu4X7bSer6vGPyWEF_MKQN3obm_STwcP_2w&s url"
+  },
+  {
+    id: 337,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Matte Liquid Lipstick",
+    price: "₹349",
+    badge: "Trending",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2pKPo_0SCdsDjYT2LwxtcUxZSfkEBdjYpEdSQwOAjQ&s url"
+  },
+  {
+    id: 338,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Volumizing Black Mascara",
+    price: "₹299",
+    badge: "Best Seller",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIXXWaiixSchYPRS9o5xjhoRl26UNhkDZA_Rg2RDKQ&s=10 url"
+  },
+  {
+    id: 339,
+    category: "womenProducts",
+    subcategory: "Beauty",
+    name: "Shimmer Highlighter Makeup",
+    price: "₹399",
+    badge: "Glow Essential",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjwRAx9NXDbe2zSrlguZYDvAImS8tNnwvYAc1mOVf-Q&s=10"
+  },
+  {
+    id: 340,
+    category: "womenProducts",
+    subcategory: "Accessories",
+    name: "Elegant Leather Tote Bag",
+    price: "₹2,499",
+    badge: "Bestseller",
+    image: " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMIG-0lHza7AO7eRqAdSmiYuOCNHbJ3g2SRYZziCD6Q&s"
+  },
+  {
+    id: 341,
+    category: "womenProducts",
+    subcategory: "Accessories",
+    name: "Stylish Crossbody Sling Bag",
+    price: "₹1,499",
+    badge: "Trending",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS43NthKLAy7gI5EIBmazA0A6WNT69xRkFlQc3ZDRbgbQ&s=10 "
+  },
+  {
+    id: 342,
+    category: "womenProducts",
+    subcategory: "Accessories",
+    name: "Mini Party Wear Clutch",
+    price: "₹999",
+    badge: "Party Wear",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfRZBDiTSaVp4e6qgXWdtYilg1gFQblUriTcJuUQY_w&s=10 "
+  },
+  {
+    id: 343,
+    category: "womenProducts",
+    subcategory: "Accessories",
+    name: "Classic Women's Wallet",
+    price: "₹699",
+    badge: "Popular",
+    image: " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BCSUQGEOpca7Jrnt6eJAUwo3I4HtoW6YQvsIBT9FaA&s"
+  },
+  {
+    id: 344,
+    category: "womenProducts",
+    subcategory: "Accessories",
+    name: "Premium Quilted Shoulder Handbag",
+    price: "₹2,499",
+    badge: "Bestseller",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nk-4SWf-btSoJcHQg8-6C3-SWw6EhJCuYmqw5doOQA&s=10"
+  },
+  {
+    id: 345,
+    category: "womenProducts",
+    subcategory: "Accessories",
+    name: "Trendy Mini Crossbody Handbag",
+    price: "₹1,299",
+    badge: "Trending",
+    image: "https://rukminim2.flixcart.com/image/480/640/xif0q/sling-bag/6/h/m/stylish-flap-with-gold-buckle-premium-pu-leather-handbag-for-original-imahmpghjn2huxmd.jpeg?q=90"
+  },
+  // {
+  //   id: 346,
+  //   category: "womenProducts",
+  //   subcategory: "Watches",
+  //   name: "Elegant Rose Gold Women's Watch",
+  //   price: "₹1,999",
+  //   badge: "Premium",
+  //   image: "image url"
+  // },
+  {
+    id: 347,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Classic Leather Strap Women's Watch",
+    price: "₹1,499",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7jpS5pu6S3cu-vgn2LNKB-LVR2WbCXkExgwhb6_sFPA&s=10"
+  },
+  {
+    id: 348,
+    category: "womenProducts",
+    subcategory: "Accessories",
+    name: "Stylish Structured Top Handle Bag",
+    price: "₹2,199",
+    badge: "Popular",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVI3P7MWKqkyFWaKuP-T0NmbCcWbjRkIdHm9To2GfyvA&s=10"
+  },
 
+  {
+    id: 350,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Elegant Women's Wrist Watch",
+    price: "₹1,799",
+    badge: "Premium",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgwubwVFuU2mo0z8eUf8VAX43I4N0YlJvXOTS8-CNWg&s=10"
+  },
+  {
+    id: 351,
+    category: "womenProducts",
+    subcategory: "Accessories",
+    name: "Embroidered Ethnic Potli Bag",
+    price: "₹799",
+    badge: "Traditional Pick",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDpz3kB7m70-ULKI4coaTdV-t8t1_kloiDZ3b5IZqGA&s"
+  },
+  {
+    id: 352,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Vitamin C Brightening Face Serum",
+    price: "₹599",
+    badge: "Bestseller",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKqg-Sywu5FrvGNOR71OquSIsnS2BHBsbmXaO_6on4A&s=10"
+  },
+  {
+    id: 353,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Hydrating Hyaluronic Acid Serum",
+    price: "₹549",
+    badge: "Popular",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KiOVxRNvnT2VPvRsepgHmuMgARrGiERbAvmFQTCvsQ&s=10"
+  },
+  {
+    id: 354,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Gentle Foaming Face Cleanser",
+    price: "₹349",
+    badge: "Daily Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXwt9BsnV5LoKMd8mKUAe94L6l1vF3pJlW7Urh4EaLg&s=10"
+  },
+  {
+    id: 355,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Aloe Vera Soothing Face Gel",
+    price: "₹249",
+    badge: "Natural Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQj2zCObEm_ejNlDXK87VRMmpAhDuF5pcLoldyUnYG0w&s=10"
+  },
+  {
+    id: 356,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Oil-Free Daily Moisturizer",
+    price: "₹399",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqK67SNru1dl09mztJt6oJSpgmuMi22AhEnM76Hm52bg&s=10"
+  },
+  {
+    id: 357,
+    category: "skincare",
+    subcategory: "personal",
+    name: "SPF 50 Sunscreen Gel",
+    price: "₹499",
+    badge: "Sun Protection",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZGdFNT0ocrvUa1Bmm9xe2F3am1BqbAVGSXbMI8nOyQ&s"
+  },
+  {
+    id: 358,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Deep Cleansing Charcoal Face Mask",
+    price: "₹299",
+    badge: "Trending",
+    image: "https://beardo.in/cdn/shop/files/1_e830d875-a80b-4b46-aef3-c6a5ae55101f.jpg?v=1749641263"
+  },
+  {
+    id: 359,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Rose Water Hydrating Face Mist",
+    price: "₹279",
+    badge: "Refreshing",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFOwm0lbBBJSpcwIpj2YxA_UvBDzT4RyGumSWb7jIXw&s"
+  },
+  {
+    id: 360,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Nourishing Night Repair Cream",
+    price: "₹649",
+    badge: "Premium",
+    image: "https://images.meesho.com/images/products/455577633/pmk14_512.webp?width=512"
+  },
+  {
+    id: 361,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Gentle Exfoliating Face Scrub",
+    price: "₹329",
+    badge: "Glow Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXfBibVCRwKSNs245A5qxuCFb1kau6CtxV8CSoX8bMw&s"
+  },
+  {
+    id: 362,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Hydrating Under-Eye Cream",
+    price: "₹449",
+    badge: "Eye Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXY4CKwAgtJXF7QXv-Ld9myqDmMlzDDbwr7T7s9FAqA&s=10"
+  },
+  {
+    id: 363,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Nourishing Lip Sleeping Mask",
+    price: "₹299",
+    badge: "Editor's Pick",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0-3TRwL_fK4NGZSgEKz1EpBvUI64eTvu1nKi9E_eVw&s=10"
+  }
+  
 ].map((product) => ({
   ...product,
   mrp: product.mrp || generateMrp(product.price),
