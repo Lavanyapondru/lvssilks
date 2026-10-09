@@ -1002,7 +1002,7 @@ export const products = [
     name: "Women's Casual Slip-On Loafers",
     price: "₹899",
     badge: "Everyday Wear",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EhiJ_PsJGxOlHhWKKowHCru0skfM7Fsx-affABvUig&s=10"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsT94uCyWCIMChI5g8sAJKBkZVopPM31aHRDzXyBU4jw&s=10"
   },
   {
     id: 325,
