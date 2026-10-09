@@ -5,7 +5,7 @@ export default function Footer(){
    <div className="row g-4">
     <div className="col-lg-4">
         <div className="brand footer-brand">
-            <a href="#" className="d-flex gap-2"> <span className="brand-mark">LVS</span><span className="fs-5"><b>Laxmi</b> vara<small className="text-light">silks </small></span>
+            <a href="#" className="d-flex gap-2"> <span className="brand-mark">LVS</span><span className="fs-5"><b>Laxmi</b> Vara<small className="text-light">Silks </small></span>
 </a>
         </div>
         <p className="mt-3">A warm, modern destination for Indian women’s fashion, personal essentials, skincare, dress materials and custom stitching.</p></div>

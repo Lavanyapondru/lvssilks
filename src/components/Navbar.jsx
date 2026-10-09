@@ -33,7 +33,7 @@ export default function Navbar() {
           to="/"
           onClick={closeMobileMenu}
         >
-           <div className="d-flex gap-2"> <span className="brand-mark">LVS</span><span className="fs-5"><b>Laxmi</b> vara<small className="text-dark">silks </small></span>
+           <div className="d-flex gap-2"> <span className="brand-mark">LVS</span><span className="fs-5"><b>Laxmi</b> Vara<small className="text-dark">Silks </small></span>
 </div>
         </Link>
 
