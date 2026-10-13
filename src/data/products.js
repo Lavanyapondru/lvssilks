@@ -1330,6 +1330,402 @@ export const products = [
     price: "₹299",
     badge: "Editor's Pick",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0-3TRwL_fK4NGZSgEKz1EpBvUI64eTvu1nKi9E_eVw&s=10"
+  },
+   {
+    id: 364,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Classic Leather Strap Women's Watch",
+    price: "₹1,499",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkZDEFOucb0RDadodQjHX2sv_phUsyKbN9lvlDbKb9w&s"
+  },
+  {
+    id: 365,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Elegant Rose Gold Women's Watch",
+    price: "₹1,899",
+    badge: "Trending",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjQDeRGeUb5LeHfJpC91CwIDE8nwJ-jjXDuErrvRcNg&s=10"
+  },
+  {
+    id: 366,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Luxury Golden Chain Women's Watch",
+    price: "₹2,499",
+    badge: "Popular",
+    image: "https://m.media-amazon.com/images/I/71iZVna3C9L._AC_UY1000_.jpg"
+  },
+  {
+    id: 367,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Minimalist White Dial Women's Watch",
+    price: "₹1,299",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3hibU6DDH00F8Z4SpfWyBd_ZhP7URPa4CsfQ_K-L7Q&s=10"
+  },
+  {
+    id: 368,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Silver Stainless Steel Women's Watch",
+    price: "₹1,799",
+    badge: "Bestseller",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvfOWLqf69K5x78wa0j88pf81aYS2qwZNmP3i2A4CQw&s=10"
+  },
+  {
+    id: 369,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Diamond-Style Party Wear Women's Watch",
+    price: "₹2,199",
+    badge: "Premium",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3IMw4FW1q-FcEh4LmGKOqinxRCB-LkcZDpkvLNikWUw&s=10"
+  },
+  {
+    id: 370,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Casual Silicone Strap Women's Watch",
+    price: "₹999",
+    badge: "Trending",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC49AqtaS3j6xigl5VCuThiyIzg_QUzsm6oBGs3rm1IQ&s=10"
+  },
+  {
+    id: 371,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Colorful Kids Watch",
+    price: "₹499",
+    badge: "Kids Special",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2o6Mcfhxpe6wMYR656hsrd7pF_X6cMmx5yuXH0bwyQ&s=10"
+  },
+  {
+    id: 372,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Digital LED Watch",
+    price: "₹699",
+    badge: "Popular",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7x6hD5JksOAgzNObsRM47TFABz_CzvKbLqggL2LQVJQ&s=10"
+  },
+  {
+    id: 373,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Unicorn Theme Girls' Watch",
+    price: "₹599",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTveszrDQIYe553PtOQc_WmJi5x0o5NllLEXk0RTWytuw&s=10"
+  },
+  {
+    id: 374,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Sports Silicone Strap Kids Watch",
+    price: "₹799",
+    badge: "Trending",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcXXWVURz5idp96g7-4JHLNkl59UlIJ8VDJ6Axgwo9A&s=10"
+  },
+  {
+    id: 375,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Educational Number Dial Kids Watch",
+    price: "₹549",
+    badge: "Kids Special",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnlE-jfC9gVmiikboVHpHvD6vPbtn4Cv7b3O6nrihyQ&s"
+  },
+  {
+    id: 376,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Pink Butterfly Girls Watch",
+    price: "₹599",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzY7hSO6i1QkkyaLtsK1LpvaRBSl078lR-T0skLkBYjw&s"
+  },
+  {
+    id: 377,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Purple Unicorn Digital Watch",
+    price: "₹699",
+    badge: "Trending",
+    image: "https://ae-pic-a1.aliexpress-media.com/kf/S2b88ad65188d47db9894909b956f26f4B.jpg"
+  },
+  {
+    id: 378,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Cute Teddy Bear Strap Watch",
+    price: "₹499",
+    badge: "Popular",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvTAIbIT0a66K7CoSQpzX2JJx-ABWxySMDYdUjyBeKg&s=10"
+  },
+  {
+    id: 379,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Silicone Strap Watch",
+    price: "₹549",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENQaWz9vizcWyPBLviXcwBqD1SNd1MrEwSDwi38TRPQ&s"
+  },
+  {
+    id: 380,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Princess Crown Girls Watch",
+    price: "₹799",
+    badge: "Bestseller",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOEIP4ueKabEoqhZzsxDqqNPcXC855jqLusJ-dRtxnw&s"
+  },
+  {
+    id: 381,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Floral Pink Analog Watch",
+    price: "₹649",
+    badge: "Trending",
+    image: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTx8UCckDBIw3WuYiB-4zQ4MSxh3Vq5dhuehyp8wL8bIuIEt1qBPMgb-yYzQ3mK7Lur3lFL6XLM_SxVHewUDaqfd3SC3iz8DhfICeS7UbBACebFO1Y31YxX2w&usqp=CAc"
+  },
+  {
+    id: 382,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Heart-Shaped Dial Girls Watch",
+    price: "₹699",
+    badge: "New",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4CeItA8vMH336BjfTNvYY3S-gPlF4_Vau27p6NW3fKg&s=10"
+  },
+  {
+    id: 383,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Glitter Star Girls Watch",
+    price: "₹749",
+    badge: "Popular",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdSoKsZ6b6ewjVhJINZiV2rqYInTuYJJZ66Vn5ex_8NQ&s"
+  },
+  {
+    id: 384,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Cute Cartoon Cat Girls Watch",
+    price: "₹599",
+    badge: "Trending",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKiyQ_I3hydZ3cgi6YLDiEmJwgpas9JeKmuki0ETslnw&s"
+  },
+  {
+    id: 385,
+    category: "womenProducts",
+    subcategory: "Watches",
+    name: "Elegant Rose Gold Girls Watch",
+    price: "₹899",
+    badge: "Premium",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIO2k-mVyofNrqosa3oK95fHOOlETSthSJfpU0I2KWVw&s=10"
+  },
+  {
+  id: 386,
+  category: "womenProducts",
+  subcategory: "Watches",
+  name: "Cute Strawberry Print Girls Watch",
+  price: "₹549",
+  badge: "New",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2Njo_sUaiVLCLjRU8jq2vHcEKPhKGfx2KOV-xmge3w&s=10"
+},
+{
+  id: 387,
+  category: "womenProducts",
+  subcategory: "Watches",
+  name: "Pastel Blue Butterfly Girls Watch",
+  price: "₹649",
+  badge: "Trending",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFTcMUMeeOTK-V-Rr7USf82Nb3DH6hWiR9QSofBEG78A&s"
+},
+{
+    id: 388,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Gentle Foaming Face Wash",
+    price: "₹199",
+    badge: "Daily Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOKhpzJ7ozWmpOlWhvpcqX2JC5X3U7vgadQ18x5lGlw&s"
+  },
+  {
+    id: 389,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Aloe Vera Soothing Face Gel",
+    price: "₹249",
+    badge: "Natural Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwkmG1ewuRxru83D6Mc8U3_kZdG8K9ytVdwqkxGU0tQ&s=10"
+  },
+  {
+    id: 390,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Vitamin C Face Serum",
+    price: "₹399",
+    badge: "Glow Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn02L-3rNwXsUt7R0whMn7HMquod61Zr91q2VQq24PRg&s=10"
+  },
+  {
+    id: 391,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Hydrating Face Moisturizer",
+    price: "₹299",
+    badge: "Hydration",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GKj9XJbNMCw1AsWMZVBTnvSeP8Wbhk-HM1Da_6qrJg&s=10"
+  },
+  {
+    id: 392,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Rose Water Facial Toner",
+    price: "₹179",
+    badge: "Refreshing",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_M3OxKyl4efnYX1Rrbq52uSNFDelpunPDLNgVYize_Q&s=10"
+  },
+  {
+    id: 393,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Daily Sunscreen SPF 50",
+    price: "₹349",
+    badge: "Sun Protection",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGcjeBxdY1olRuMkp-GzwyyqyHhN-hISei9_FdlJ1qg&s=10"
+  },
+  {
+    id: 394,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Gentle Micellar Cleansing Water",
+    price: "₹279",
+    badge: "Makeup Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjOT409_Ulc0qo458lHKhQWkZwCvBwQxeHvvLgx6GBQ&s=10"
+  },
+  {
+    id: 395,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Shea Butter Body Lotion",
+    price: "₹299",
+    badge: "Soft Skin",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRHdwxs90XB3aHC25kiQg4h-T--OnHGkgOWsaOh_asg&s=10"
+  },
+  {
+    id: 396,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Strawberry Lip Balm",
+    price: "₹99",
+    badge: "Lip Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT25CP2AzW-9Xn-1KuzrHJEaWh-6MM-3rZ8CytdTvGPnQ&s=10"
+  },
+  {
+    id: 397,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Cucumber Under-Eye Gel",
+    price: "₹229",
+    badge: "Cooling Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0PnmKQZGnfIbXnyqpxU3RGBpUQhaYAPbYb9QvPXnTjQ&s"
+  },
+  {
+    id: 398,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Honey and Oat Face Cleanser",
+    price: "₹249",
+    badge: "Gentle Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNwPTsa7Be2QUYF96szka1kqXkTLJ3udQQqTm0GXXgg&s=10"
+  },
+  {
+    id: 399,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Clay Purifying Face Mask",
+    price: "₹299",
+    badge: "Deep Clean",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqT4xCANrp-A9vYCQ-79vB-vQ0u-vTF_7F66vzqgdrAQ&s"
+  },
+  {
+    id: 400,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Overnight Hydrating Face Cream",
+    price: "₹449",
+    badge: "Night Care",
+    image: "https://thaneshop.com/wp-content/uploads/2025/12/Pilgrim-Swiss-Aqua-Rush%E2%84%A2-Overnight-Hydrating-Cream-with-Ceramides-50gm.jpg"
+  },
+  {
+    id: 401,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Niacinamide Face Serum",
+    price: "₹399",
+    badge: "Skin Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvc7DLo9QwNDFYAtaisAkF8NxogKGIbpmiNoY8q9MDYQ&s=10"
+  },
+  {
+    id: 402,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Gentle Exfoliating Face Scrub",
+    price: "₹229",
+    badge: "Smooth Skin",
+    image: "https://innovist.com/cdn/shop/files/exfoliating_face_Scrub_100ml.jpg?v=1787219525&width=900"
+  },
+  {
+    id: 403,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Cocoa Butter Hand Cream",
+    price: "₹149",
+    badge: "Hand Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlKpzrTLEbY9dalSV54_D9X9zL3nfPnRPisKuFLAKHg&s=10"
+  },
+  {
+    id: 404,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Nourishing Body Butter",
+    price: "₹399",
+    badge: "Moisture Boost",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNbDJwkj8cXjom6J9A_wxLCRDQj13sLSXsmnbwWPdKQ&s=10"
+  },
+  {
+    id: 405,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Gentle Makeup Remover Balm",
+    price: "₹329",
+    badge: "Makeup Care",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_maoPWol334lLs5m-nhLOX6keU9awrhiqW5AMCbMag&s=10"
+  },
+  {
+    id: 406,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Hydrating Sheet Face Mask",
+    price: "₹99",
+    badge: "Instant Hydration",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgeS8SoE9Y_hShktNbIiY7JjCrcbKAWbliXr-I_wu9Ag&s"
+  },
+  {
+    id: 407,
+    category: "skincare",
+    subcategory: "personal",
+    name: "Gentle Lip and Cheek Balm",
+    price: "₹199",
+    badge: "Everyday Essential",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNej40SFQagzvu7yf9O87zu8rUXuhMdrVwLkdYVRiEQ&s"
   }
   
 ].map((product) => ({
